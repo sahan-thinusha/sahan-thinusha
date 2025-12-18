@@ -29,9 +29,3 @@
  </p>
 
 
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahan-thinusha&show_icons=true&locale=en&layout=compact" alt="sahan-thinusha" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahan-thinusha&show_icons=true&locale=en" alt="sahan-thinusha" /></p>
